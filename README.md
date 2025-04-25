@@ -13,21 +13,22 @@ The dataset focuses on gold medal-winning athletes from the 2000s Olympic Games 
 
 The dataset includes the following variables:
 
-`UniqueGameID`: Unique identifier for each athlete.
-`Name`: Athlete's name.
-`Sex`: Athlete's gender.
-`Age`: Athlete's age.
-`Height`: Athlete's height (cm).
-`Weight`: Athlete's weight (kg).
-`Team`: Athlete's team name.
-`NOC`: National Olympic Committee (country code).
-`Games`: Year and season of the Olympic Games.
-`Year`: Year of the Olympic Games.
-`Season`: Season of the Olympic Games (Summer or Winter).
-`City`: Host city of the Olympic Games.
-`Sport`: Sport in which the athlete participated.
-`Event`: Specific event within the sport.
-`Medal`: Medal type (all entries are "Gold" in this dataset).
+`UniqueGameID`: Unique identifier for each athlete.  
+`Name`: Athlete's name.  
+`Sex`: Athlete's gender.  
+`Age`: Athlete's age.  
+`Height`: Athlete's height (cm).  
+`Weight`: Athlete's weight (kg).  
+`Team`: Athlete's team name.  
+`NOC`: National Olympic Committee (country code).  
+`Games`: Year and season of the Olympic Games.  
+`Year`: Year of the Olympic Games.  
+`Season`: Season of the Olympic Games (Summer or Winter).  
+`City`: Host city of the Olympic Games.  
+`Sport`: Sport in which the athlete participated.  
+`Event`: Specific event within the sport.  
+`Medal`: Medal type (all entries are "Gold" in this dataset).  
+
 
 ## Analysis Performed
 
