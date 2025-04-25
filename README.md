@@ -4,8 +4,8 @@ This repository contains an analysis of Olympic gold medalists data from the 200
 
 ## Files
 
-* **olympics_gold_medalists.xlsx:** This Excel file contains the dataset used for the analysis. It includes the raw data and all calculations, descriptive statistics, analysis, and visualizations presented in the associated PDF report. The analysis is organized into separate sheets within the Excel file.
-* **Data Exploration Mathematics.pdf:** This document provides a detailed report of the data exploration, statistical analysis, and findings. It includes a data dictionary, descriptive statistics, univariate analysis, and visualizations.
+`olympics_gold_medalists.xlsx`: This Excel file contains the dataset used for the analysis. It includes the raw data and all calculations, descriptive statistics, analysis, and visualizations presented in the associated PDF report. The analysis is organized into separate sheets within the Excel file.
+`Data Exploration Mathematics.pdf`: This document provides a detailed report of the data exploration, statistical analysis, and findings. It includes a data dictionary, descriptive statistics, univariate analysis, and visualizations.
 
 ## Data Description
 
